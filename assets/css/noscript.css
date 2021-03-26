@@ -16,3 +16,8 @@
 		-ms-transform: none;
 		transform: none;
 	}
+.logo{
+	border-radius: 50%;
+	overflow: hidden;
+	width: 150px;
+}
